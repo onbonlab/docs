@@ -12,7 +12,7 @@ This is a new item.
 
 This is a panda.
 
-![panda](img\panda.png)
+![panda](.\img\panda.png)
 
 
 
